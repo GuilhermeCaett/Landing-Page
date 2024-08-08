@@ -240,6 +240,10 @@ section {
     }
     .container-preco{
         margin-top: 50px;
-        height: 580px;
+        height: auto;
+    }
+    #BTNcomprar{
+        display: flex;
+        flex-direction: column;
     }
 }
